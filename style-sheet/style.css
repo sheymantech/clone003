@@ -108,7 +108,7 @@ img{
         display: none;
     }
     .btn1 .btn2{
-        display: block;
+        display: inline-block;
     }
     .mobile-img{
         display: block;

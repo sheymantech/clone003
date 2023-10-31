@@ -111,6 +111,9 @@ img{
         display: block;
         width: 100%;
     }
+    .mobile-img img{
+        width: 100%;
+    }
     .btn1{
         margin-bottom: 15px;
     }

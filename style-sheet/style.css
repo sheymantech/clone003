@@ -107,6 +107,9 @@ img{
     .desktop-img{
         display: none;
     }
+    .btn1{
+        display: block;
+    }
     .mobile-img{
         display: block;
         width: 100%;

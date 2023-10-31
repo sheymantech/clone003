@@ -107,13 +107,8 @@ img{
     .desktop-img{
         display: none;
     }
-    .btn1 {
-        display: block;
-        
-    }
-    .btn2 {
-        display: block;
-        
+    .btn1{
+        margin-bottom: 15px;
     }
     .mobile-img{
         display: block;
